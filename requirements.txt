@@ -22,3 +22,4 @@ WTForms==2.3.3
 email_validator
 python-dotenv
 gunicorn==20.1.0
+psycopg2-binary==2.9.5
